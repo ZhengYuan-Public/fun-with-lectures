@@ -1,8 +1,0 @@
-pscp D:\7).Temp\FFOutput\*.mp3 root@<IP-Address>:/root/autosub
-
-pscp root@<IP-Address>:/root/autosub/"*.srt" D:\7).Temp\Autosub
-
-find . -name "*.mp3" -print0 | xargs -0 -n 1 autosub
-
-
-https://justmysocks.net/members/aff.php?aff=3856
