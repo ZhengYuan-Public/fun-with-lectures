@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-21 11:39+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: audiofield/admin.py:37
+#, python-format
+msgid "Successfully deleted %d audio files."
+msgstr "Eliminado correctamente %d archivos de audio."
+
+#: audiofield/fields.py:87
+msgid "not allowed filetype!"
+msgstr ""
+
+#: audiofield/fields.py:94
+msgid ""
+"not allowed : file format conversion is not allowed for same audio type "
+"(except Wav)"
+msgstr ""
+
+#: audiofield/models.py:35
+#, fuzzy
+#| msgid "Audio Name"
+msgid "audio name"
+msgstr "Nombre de audio"
+
+#: audiofield/models.py:36
+#, fuzzy
+#| msgid "Audio file label"
+msgid "audio file label"
+msgstr "Etiqueta del audio"
+
+#: audiofield/models.py:39 audiofield/models.py:50
+#, fuzzy
+#| msgid "Audio file"
+msgid "audio file"
+msgstr "Archivo de audio"
+
+#: audiofield/models.py:40
+msgid "user"
+msgstr ""
+
+#: audiofield/models.py:41
+#, fuzzy
+#| msgid "Select User"
+msgid "select user"
+msgstr "Seleccione Usuario"
+
+#: audiofield/models.py:47
+#, fuzzy
+#| msgid "Audio files"
+msgid "can see Audio Files"
+msgstr "Los archivos de audio"
+
+#: audiofield/models.py:51
+#, fuzzy
+#| msgid "Audio files"
+msgid "audio files"
+msgstr "Los archivos de audio"
+
+#: audiofield/models.py:69
+#, fuzzy
+#| msgid "Audio file player"
+msgid "audio file player"
+msgstr "Reproductor de archivos de audio"
+
+#: audiofield/widgets.py:24 audiofield/widgets.py:30
+msgid "Keep original"
+msgstr "Conservar original"
+
+#: audiofield/widgets.py:25
+msgid "Mono"
+msgstr "Mono"
+
+#: audiofield/widgets.py:26
+msgid "Stereo"
+msgstr "Estéreo"
+
+#: audiofield/widgets.py:31
+msgid "8000 Hz"
+msgstr "8000 Hz"
+
+#: audiofield/widgets.py:32
+msgid "16000 Hz"
+msgstr "16.000 Hz"
+
+#: audiofield/widgets.py:33
+msgid "22050 Hz"
+msgstr "22050 Hz"
+
+#: audiofield/widgets.py:34
+msgid "44100 Hz"
+msgstr "44100 Hz"
+
+#: audiofield/widgets.py:35
+msgid "48000 Hz"
+msgstr "48000 Hz"
+
+#: audiofield/widgets.py:39
+msgid "Keep original audio file"
+msgstr "Mantener el archivo de audio original"
+
+#: audiofield/widgets.py:40
+msgid "Convert to MP3"
+msgstr "Convertir a MP3"
+
+#: audiofield/widgets.py:41
+msgid "Convert to WAV"
+msgstr "Convertir a WAV"
+
+#: audiofield/widgets.py:42
+msgid "Convert to OGG"
+msgstr "Convertir a OGG"
+
+#: audiofield/widgets.py:79
+msgid "Allowed format - mp3 wav and ogg"
+msgstr "Formato permite - mp3 wav y ogg"
+
+#: audiofield/widgets.py:83 audiofield/widgets.py:141
+msgid "Currently:"
+msgstr "En la actualidad:"
+
+#: audiofield/widgets.py:85 audiofield/widgets.py:143
+msgid "Change:"
+msgstr "Cambio:"
+
+#: audiofield/widgets.py:87
+msgid "Upload:"
+msgstr "Subir:"
+
+#: audiofield/widgets.py:89
+#, fuzzy
+#| msgid "Convert To:"
+msgid "Convert to:"
+msgstr "Convertir a:"
+
+#: audiofield/widgets.py:90
+msgid "Channel:"
+msgstr "Canal:"
+
+#: audiofield/widgets.py:91
+msgid "Frequency:"
+msgstr "Frecuencia:"
+
+#: audiofield/widgets.py:95
+msgid "Delete:"
+msgstr "Eliminar:"
+
+#: audiofield/widgets.py:133
+msgid "Allowed format - mp3, wav and ogg"
+msgstr "Formato permite - mp3, wav y ogg"
+
+#~ msgid "English"
+#~ msgstr "Inglés"
+
+#~ msgid "Spanish"
+#~ msgstr "Español"
+
+#~ msgid "Portuguese"
+#~ msgstr "Portugués"
