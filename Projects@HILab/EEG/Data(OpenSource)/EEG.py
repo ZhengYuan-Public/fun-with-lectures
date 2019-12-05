@@ -1,32 +1,7 @@
-def minfo(matrix):
-    '''Display Matrix Information, it receives two parameters(matrix,matrix_name)'''
-    print('-'*19+'Start'+'-'*19)
-    try:
-        print("Type:",type(matrix))
-    except Exception:
-        pass
-    try:
-        print("Data type:",matrix.dtype)
-    except Exception:
-        pass
-    try:
-        print("Size:",matrix.size)
-    except Exception:
-        pass
-    try:
-        print("Shape:",matrix.shape)
-    except Exception:
-        pass    
-    try:
-        print("Dimission:",matrix.ndim)
-    except Exception:
-        pass  
-    print(matrix)
-    print('-'*20+'End'+'-'*20)
-
 #Load Dataset
 from scipy.io import loadmat
 data_all = loadmat('N1.mat')['dataStruct']
+
 #minfo(data_all)
 channels_all = data_all['data'][0][0]
 channels_index = data_all['channelIndices'][0][0][0]
