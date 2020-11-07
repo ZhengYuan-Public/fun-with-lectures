@@ -8,7 +8,7 @@
 import scrapy
 
 
-class Sht98TItem(scrapy.Item):
+class <removed_name>(scrapy.Item):
     # define the fields for your item here like:
     movie_number_title = scrapy.Field()
     movie_pics_links = scrapy.Field()

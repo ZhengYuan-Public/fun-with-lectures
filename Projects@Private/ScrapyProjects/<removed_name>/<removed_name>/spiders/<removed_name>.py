@@ -3,12 +3,12 @@ import scrapy
 from ..items import Sht98TItem
 
 
-class ShtSpider(scrapy.Spider):
+class <removed_name>(scrapy.Spider):
     name = 'sht'
     # allowed_domains = ['98rewer.com']
-    base_url = 'https://www.98rewer.me/'
+    base_url = '<removed_url>'
     start_urls = [
-        'https://www.98rewer.me/forum-37-1.html',
+        '<removed_url>',
                   ]
     page_links = []
     thread_links = []
