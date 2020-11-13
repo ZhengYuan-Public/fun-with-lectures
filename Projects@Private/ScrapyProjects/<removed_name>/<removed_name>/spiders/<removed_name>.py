@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 import scrapy
-from ..items import Sht98TItem
+from ..items import <removed_name>
 
 
 class <removed_name>(scrapy.Spider):
-    name = 'sht'
-    # allowed_domains = ['98rewer.com']
+    name = '<removed_name>'
+    allowed_domains = ['<removed_name>']
     base_url = '<removed_url>'
     start_urls = [
         '<removed_url>',
@@ -35,7 +35,7 @@ class <removed_name>(scrapy.Spider):
             yield response.follow(url=thread, callback=self.parse_thread)
 
     def parse_thread(self, response):
-        json_item = Sht98TItem()
+        json_item = <removed_name>()
         try:
             json_item['movie_number_title'] = response.xpath("//span[@id='thread_subject']/text()").getall()
         except Exception:
