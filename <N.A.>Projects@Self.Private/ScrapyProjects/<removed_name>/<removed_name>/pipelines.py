@@ -7,7 +7,7 @@
 import json
 
 
-class Sht98TPipeline(object):
+class <removed_name>Pipeline(object):
 
     def process_item(self, item, spider):
         contents = json.dumps(dict(item), indent=4, sort_keys=True, ensure_ascii=False)

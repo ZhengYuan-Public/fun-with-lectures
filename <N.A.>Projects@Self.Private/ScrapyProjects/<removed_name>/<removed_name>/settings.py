@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for SHT_98T project
+# Scrapy settings for <removed_name> project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -10,15 +10,15 @@
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 LOG_LEVEL = 'INFO'
 
-BOT_NAME = 'SHT_98T'
+BOT_NAME = '<removed_name>'
 
-SPIDER_MODULES = ['SHT_98T.spiders']
-NEWSPIDER_MODULE = 'SHT_98T.spiders'
+SPIDER_MODULES = ['<removed_name>.spiders']
+NEWSPIDER_MODULE = '<removed_name>.spiders'
 # LOG_LEVEL = 'ERROR'
 # DOWNLOAD_DELAY = 2
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'SHT_98T (+http://www.yourdomain.com)'
+#USER_AGENT = '<removed_name> (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 #ROBOTSTXT_OBEY = False
@@ -51,14 +51,14 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'SHT_98T.middlewares.Sht98TSpiderMiddleware': 543,
+#    '<removed_name>.middlewares.<removed_name>SpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'SHT_98T.middlewares.Sht98TDownloaderMiddleware': 543,
-    'SHT_98T.middlewares.ProxyMiddleware': 350,
+    '<removed_name>.middlewares.<removed_name>DownloaderMiddleware': 543,
+    '<removed_name>.middlewares.ProxyMiddleware': 350,
 }
 
 # Enable or disable extensions
@@ -70,7 +70,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'SHT_98T.pipelines.Sht98TPipeline': 300,
+    '<removed_name>.pipelines.<removed_name>Pipeline': 300,
     'scrapy.pipelines.images.ImagesPipeline': 300,
     'scrapy.pipelines.files.FilesPipeline': 300,
 }

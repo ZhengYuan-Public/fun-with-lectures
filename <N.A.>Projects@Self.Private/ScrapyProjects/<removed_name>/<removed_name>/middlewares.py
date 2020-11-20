@@ -13,7 +13,7 @@ class ProxyMiddleware(object):
         request.meta['proxy'] = "http://127.0.0.1:8181"
 
 
-class Sht98TSpiderMiddleware(object):
+class <removed_name>SpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the
     # passed objects.
@@ -61,7 +61,7 @@ class Sht98TSpiderMiddleware(object):
         spider.logger.info('Spider opened: %s' % spider.name)
 
 
-class Sht98TDownloaderMiddleware(object):
+class <removed_name>DownloaderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the downloader middleware does not modify the
     # passed objects.
