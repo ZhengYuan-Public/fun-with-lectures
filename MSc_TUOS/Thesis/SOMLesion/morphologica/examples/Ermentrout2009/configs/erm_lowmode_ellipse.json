@@ -1,0 +1,15 @@
+{
+    "steps" : 400000,
+    "win_width" : 800,
+    "logevery": 100000,
+    "plotevery": 5000,
+    "rhoInit" : 1,
+    "overwrite_logs": true,
+    "logpath" : "./logs/erm_lowmode_ellipse",
+    "hextohex_d" : 0.01,
+    "svgpath" : "./boundaries/ellipse_big.svg",
+    "dt" : 0.00001,
+    "boundaryFalloffDist" : 0.03,
+    "Dn" : 0.2,
+    "Dc" : 0.08
+}

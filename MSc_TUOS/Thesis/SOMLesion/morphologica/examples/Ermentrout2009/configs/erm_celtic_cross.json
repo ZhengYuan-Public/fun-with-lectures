@@ -1,0 +1,14 @@
+{
+    "steps" : 200000,
+    "win_width" : 800,
+    "logevery": 100000,
+    "plotevery": 5000,
+    "overwrite_logs": true,
+    "logpath" : "./logs/erm",
+    "hextohex_d" : 0.02,
+    "svgpath" : "../morphologica/boundaries/whiskerbarrels.svg",
+    "dt" : 0.0001,
+    "boundaryFalloffDist" : 0.01,
+    "Dn" : 0.05,
+    "Dc" : 0.0065
+}
