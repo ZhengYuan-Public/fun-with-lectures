@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 612 792"
+   style="enable-background:new 0 0 612 792;"
+   xml:space="preserve"
+   id="svg895"
+   sodipodi:docname="circle.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1061"
+   inkscape:window-height="748"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="0.2979798"
+   inkscape:cx="-281.28813"
+   inkscape:cy="396"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg895" /><metadata
+   id="metadata901"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs899">
+	
+</defs>
+<style
+   type="text/css"
+   id="style878">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+
+
+
+
+<g
+   transform="matrix(0.49510593,0,0,1,134.80672,0)"
+   id="_x45_mm">
+	<line
+   style="fill:none;stroke:#000000;stroke-miterlimit:10"
+   class="st0"
+   x1="267"
+   y1="513"
+   x2="365.70001"
+   y2="513"
+   id="line892" />
+</g>
+<g
+   transform="matrix(1.5231226,0,0,1.4519212,-136.36395,-213.90839)"
+   id="cortex"><path
+     id="path3723"
+     d="m 235.52049,379.3942 c 0.29663,-55.1723 41.50614,-93.58263 92.5471,-94.03022 54.87655,-0.48123 96.13121,41.37999 95.4698,91.01118 -0.68448,51.36235 -41.18458,96.45601 -96.06306,96.45601 -49.83304,0 -92.65151,-41.53223 -91.95384,-93.43697 z"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0" /></g></svg>
