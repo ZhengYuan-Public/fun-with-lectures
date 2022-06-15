@@ -1,5 +1,5 @@
-# Education
-This is the root folder that stores my learning files.
+# Archived Projects
+Notes & BE Graduation Design & MSc Coursework and Projects.
 
 You need a mind-map software named XMind to open *.xmind files.
 
